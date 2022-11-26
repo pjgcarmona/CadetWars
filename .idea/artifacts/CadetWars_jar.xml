@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CadetWars:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CadetWars_jar</output-path>
+    <root id="archive" name="CadetWars.jar">
+      <element id="module-output" name="CadetWars" />
+    </root>
+  </artifact>
+</component>
